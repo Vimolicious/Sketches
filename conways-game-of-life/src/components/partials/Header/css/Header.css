@@ -1,0 +1,52 @@
+/* Main header */
+#main-header {
+  display: flex;
+
+  background-color: #08151c;
+  padding: 1rem 2rem;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+#main-header__title {
+  flex-grow: 1;
+}
+
+#main-header__title h1 {
+  color: white;
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+#main-header__title h3 {
+  margin: 0;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+#main-header__buttons {
+  display: flex;
+  align-items: center;
+  flex-grow: 2;
+
+  height: 50px;
+
+  justify-content: flex-end;
+}
+
+#main-header__buttons .rc-slider {
+  width: 150px;
+  margin-right: 4rem;
+}
+
+#main-header__buttons > *:not(:last-child):not(.rc-slider) {
+  margin-right: 1rem;
+}
+
+#main-header__buttons button,
+#main-header__buttons .btn {
+  height: 100%;
+}
