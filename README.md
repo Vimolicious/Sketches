@@ -2,7 +2,7 @@
 
 Repository for my p5js games/visualizations/whatever.
 
-## Boids
+## [Boids](https://vimolicious.github.io/Sketches/boids)
 
 A visualization of the flocking behavior originially designed by [Craig Reynolds](https://red3d.com/cwr/boids).
 
@@ -22,7 +22,7 @@ A visualization of the [cellular automaton](https://en.wikipedia.org/wiki/Cellul
 | :---------------- | :--------------- | :---------------------- |
 | Jun 28, 2020      | Jul 16, 2020     | 20                      |
 
-## Elastic Collisions
+## [Elastic Collisions](https://vimolicious.github.io/Sketches/elastic-collisions)
 
  A visualization of the strange phenomenon presented in [this 3blue1brown video](https://youtu.be/HEfHFsfGXjs). Originially discovered by [Gregory Galperin](https://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf).
 
@@ -42,7 +42,7 @@ A visualization of [David Hilbert's](https://en.wikipedia.org/wiki/David_Hilbert
 | :---------------- | :--------------- | :---------------------- |
 | Jun 07, 2020      | May 22, 2021     | 3                       |
 
-## Space Invaders
+## [Space Invaders](https://vimolicious.github.io/Sketches/space-invaders)
 
 A recreation of the classic video game.
 
@@ -52,7 +52,7 @@ A recreation of the classic video game.
 | :---------------- | :--------------- | :---------------------- |
 | May 08, 2019      | May 14, 2019     | 12                      |
 
-## That's Hot
+## [That's Hot](https://vimolicious.github.io/Sketches/ThatsHot)
 
 My own memey spin on Flappy Bird.
 
